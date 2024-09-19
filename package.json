@@ -1,0 +1,16 @@
+{
+  "name": "split-demo",
+  "version": "1.0.0",
+  "description": "Split files using Node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "split",
+    "files",
+    "tool"
+  ],
+  "author": "Chetan Bohra <chetanbohra26@gmail.com>",
+  "license": "MIT"
+}
