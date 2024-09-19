@@ -1,8 +1,7 @@
 const fs = require('fs');
 const util = require('util');
 
-const FILE_NAME = "Win10_22H2_EnglishInternational_x64v1.iso";
-// const FILE_NAME = "test.txt";
+const FILE_NAME = "test.txt";
 const PART_COUNT = 1000;
 
 const processFile = async (fileName, partCount = 10) => {
